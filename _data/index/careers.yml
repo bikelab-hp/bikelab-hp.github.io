@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Build the laboratory
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 2004년 OO을 필두로 한 BiKE Lab이 설립됐다. 설립 당시 인원, 소속, 목적, 연구실은 종로구 연견동 서울대학교병원이었다.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Apr. 2004
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Seoul National Univ. Hospital, Yeongeon-dong, Jongno-gu, Seoul
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: 00 특허, 수상
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 연구실에서 가장 중요한 성과 1
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 성과 관련 디테일
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: move the laboratory
+    i18n: company_c
+  desc:
+    detail: 2017년 관악구 서울대학교에 신설된 치의학대학원으로 옮겼다.
+    i18n: company_c_desc
+  date:
+    detail: Jun. 2017
+    i18n: company_c_date
+  job:
+    detail: Seoul National Univ. School of Dentistry, Gwanak-ro, Gwanak-gu, Seoul
+    i18n: company_c_job
   icon: fa-plus-square
