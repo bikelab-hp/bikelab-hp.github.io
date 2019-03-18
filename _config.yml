@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: BiKE Laboratory 
+title: BiKE Laboratory, 서울대학교 의생명지식공학연구실
 description: Biomedical Knowledge Engineering Laboratory of Seoul National University (서울대학교 의생명지식공학 연구실)
 keywords: Bike Lab, SNU, 서울대학교, 의생명지식공학연구실, 시멘틱, 온톨로지
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -19,7 +19,7 @@ author:  # change following line to your infomation.
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: silver@snu.ac.kr  # Leave blank if you don't have now
+  email:  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -48,7 +48,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
